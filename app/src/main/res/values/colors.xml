@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6BC8EC</color>
+    <color name="colorPrimaryDark">#6BC8EC</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorGray">#c0c0c0</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlue">#24C68A</color>
+    <color name="mainGray">#F2F6F7</color>
+    <color name="main_40">#40ACD6</color>
+    <color name="main_a8">#A8E0F5</color>
+    <color name="gray_f4">#F4F4F4</color>
+    <color name="gray_5">#555555</color>
+    <color name="gray_6">#666666</color>
+    <color name="gray_8">#888888</color>
+    <color name="gray_65">#656565</color>
+    <color name="gray_9">#999999</color>
+    <color name="gray_ec">#ECECEC</color>
+    <color name="gray_e">#EEEEEE</color>
+    <color name="gray_f8">#F8F8F8</color>
+    <color name="mainColor">#6BC8EC</color>
+    <color name="light_main">#94D9F4</color>
+    <color name="line">#E5E5E5</color>
+    <!--日期时间选择器的相关颜色-->
+    <color name="date_picker_bg">#FFFFFF</color>
+    <color name="date_picker_divider">#11112233</color>
+    <color name="date_picker_text_light">#59B29C</color>
+    <color name="date_picker_text_dark">#333333</color>
+    <color name="colorFood">#e5bc84</color>
+    <color name="pregnancy_color_181818">#181818</color>
+    <color name="pregnancy_color_888888">#888888</color>
+    <color name="pregnancy_color_49c9c9">#49c9c9</color>
+    <color name="pregnancy_color_5a5a66">#5a5a66</color>
+    <color name="pregnancy_color_f5f5f5">#f5f5f5</color>
+    <color name="pregnancy_color_ececec">#ececec</color>
+</resources>
